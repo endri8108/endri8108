@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Erdi 👋</h1>
 
 <p align="center">
-  Computer Engineering student at Trakya University · I build software test-first and write down why.
+  Computer Engineering student at Trakya University·
 </p>
 
 <p align="center">
