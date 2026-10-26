@@ -36,7 +36,6 @@ final erdi = Engineer(
 
 | | Project | What's inside |
 |---|---|---|
-| 🎲 | **[Taboo](https://github.com/endri8108/tabu)**<br><sub>Dart · Flutter</sub> | The whole game is one pure function, `apply(state, event) → newState`. 24 engine tests, 2,176-card word list, 13 pull requests. |
 | 🌳 | **[BST Log Analyzer](https://github.com/endri8108/bst-log-analyzer)**<br><sub>C</sub> | 169,000 real macOS log entries → a binary search tree of 301 processes. The recursive insert failed at scale, so I rewrote it iteratively and measured the tree's depth. |
 | 📈 | **[Steam Game Tracker](https://github.com/endri8108/steam-game-tracker)**<br><sub>Python · SQLite</sub> | Live player counts and price history from four APIs, background threads for a responsive UI, hourly / daily / monthly charts. |
 | 📱 | **[GSM Subscriber Manager](https://github.com/endri8108/gsm-subscriber-manager)**<br><sub>C</sub> | Subscriber records with C structs, operator-loyalty and campaign reports. |
